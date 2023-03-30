@@ -19,7 +19,7 @@
 [![](https://gtce.itsvg.in/api?username=narek4211)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=17N71&icon=2&color=12)](https://visitcount.itsvg.in)

@@ -22,16 +22,12 @@
 
 ###
 
-<<<<<<< HEAD
-<img src="https://raw.githubusercontent.com/17n71/17n71/output/snake.svg" alt="Snake animation" />
-=======
 <br clear="both">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
->>>>>>> 7448803 (snake dark/light)
 
 ###
 
